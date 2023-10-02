@@ -1,7 +1,7 @@
 /**
  * Title: home.component.ts
- * Author: Jennifer Hoitenga
- * Date: September 28, 2023
+ * Author: Michael Christman
+ * Date: September 29, 2023
  * Sources Used:
  * Angular Tutorial for Beginners: Navigation and Layout with Angular Material video by Professor Krasso (https://www.youtube.com/watch?v=Wif3MsDN7Pg)
  * Angular Tutorial for Beginners: Data Tables with Angular Material video by Professor Krasso (https://www.youtube.com/watch?v=VvHoy5CtFIE)

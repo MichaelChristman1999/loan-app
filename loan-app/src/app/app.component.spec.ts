@@ -1,7 +1,7 @@
 /*
  * Title: app.component.spec.ts
- * Author: Jennifer Hoitenga
- * Date: September 28, 2023
+ * Author: Michael Christman
+ * Date: September 29, 2023
  */
 
 import { TestBed, async } from '@angular/core/testing';

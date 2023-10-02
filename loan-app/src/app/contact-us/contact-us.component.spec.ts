@@ -1,7 +1,7 @@
 /*
  * Title: contact-us.component.spec.ts
- * Author: Jennifer Hoitenga
- * Date: September 28, 2023
+ * Author: Michael Christman
+ * Date: September 29, 2023
  */
 
 import { async, ComponentFixture, TestBed } from '@angular/core/testing';
