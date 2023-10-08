@@ -1,14 +1,14 @@
 /* Importing the theme stylesheet */
 @import "_theme.scss";
 
-@import url("https://fonts.googleapis.com/css2?family=Mooli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Oswald");
 
 * {
-  font-family: "Mooli", sans-serif;
+  font-family: "Oswald", sans-serif;
 }
 
 body {
-  background-color: #726255;
+  background-color: #D3A625;
 }
 
 .navbar-brand {
@@ -28,7 +28,7 @@ body {
 }
 
 .nav-link:hover {
-  color: white;
+  color: blueviolet;
 }
 
 .nav-link.router-link-active {
@@ -45,11 +45,11 @@ body {
 }
 
 .brown-bg {
-  background-color: #726255;
+  background-color: #D3A625;
 }
 
 .dk-brown-bg {
-  background-color: #706156;
+  background-color: #AE0001;
 }
 
 h1 {
